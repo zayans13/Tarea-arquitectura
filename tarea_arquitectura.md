@@ -9,7 +9,7 @@
 
  Disponer de buenas estimaciones sobre el futuro, es fundamental para una mejor y más objetiva toma de decisiones. Por tando la utilización de técnicas predictivas y de analítica avanzada tales como el forecasting, entre otros, son importantes para estimar el valor futuro de cualquier variable aleatoria de forma precisa, rigurosa y objetiva.
 
- # problema propuesto
+ # Problema propuesto
 
  Una empresa que vende y renta equipos de construcción, necesita una PC que le permita a la empresa realizar un forecasting de ventas considerando:
 
